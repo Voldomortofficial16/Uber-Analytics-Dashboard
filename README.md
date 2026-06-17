@@ -28,3 +28,8 @@ Analyzed 100K+ Uber booking records to uncover revenue trends, booking patterns,
 - Apache Spark Streaming
 - PostgreSQL
 - Real-time Dashboard
+## Dataset
+
+The original dataset contains 103,024 Uber booking records.
+
+Due to file size and repository optimization, the raw dataset is not included in this repository.
